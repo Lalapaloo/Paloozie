@@ -1,2 +1,2 @@
 # Paloozie
-ANd ut starts
+And it starts
